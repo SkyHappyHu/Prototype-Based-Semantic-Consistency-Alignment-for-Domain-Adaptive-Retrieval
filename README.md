@@ -1,4 +1,4 @@
-# PSCA (Accepted by AAAI-2026!)
+# PSCA (Accepted by AAAI-2026)
 
 This repository contains the extended paper and the official MATLAB implementation for **"Prototype-Based Semantic Consistency Alignment for Domain Adaptive Retrieval"**.
 
